@@ -1,0 +1,562 @@
+{
+  "id": "2026-09-28",
+  "date": "2026-09-28",
+  "weekday": "Monday",
+  "level": "Intermediate",
+  "theme": "Health & Wellness",
+  "language": "en",
+  "study": {
+    "vocabulary": [
+      {
+        "word": "resilient",
+        "ipa": "/rɪˈzɪliənt/",
+        "pos": "adj.",
+        "meaningCn": "有韧性的；恢复力强的",
+        "meaningEn": "Able to recover quickly from illness, hardship, or change; able to return to a normal state after being stretched or damaged.",
+        "notes": "**用法点睛**：形容人时指\"扛得住打击、恢复得快\"。名词形式 **resilience**（韧性，不可数）是心理健康话题的高频词，常见搭配 build resilience（培养韧性）。**近义辨析**：tough 强调\"结实、扛造\"，resilient 强调\"被打倒后能快速反弹\"，重点在\"恢复\"。",
+        "examples": [
+          {
+            "en": "Children are surprisingly **resilient** — most of them recover from a bad cold within a few days.",
+            "zh": "孩子们的恢复力惊人——大多数孩子几天内就能从重感冒中恢复过来。"
+          },
+          {
+            "en": "She is remarkably **resilient**: two weeks after the operation, she was walking to work again.",
+            "zh": "她的恢复力非常惊人：手术后两周，她就又开始步行上班了。"
+          },
+          {
+            "en": "A **resilient** company can survive an economic crisis and come back even stronger.",
+            "zh": "一家有韧性的公司能在经济危机中存活下来，甚至变得更强。"
+          }
+        ]
+      },
+      {
+        "word": "chronic",
+        "ipa": "/ˈkrɒnɪk/",
+        "pos": "adj.",
+        "meaningCn": "（疾病）慢性的；（问题）长期存在的",
+        "meaningEn": "(Of an illness) lasting for a long time or constantly recurring; (of a problem) difficult to get rid of.",
+        "notes": "**用法点睛**：医学上 **chronic**（慢性的）与 **acute**（急性的）相对：chronic pain 慢性疼痛 / an acute attack 急性发作。引申义指\"长期难解的（坏情况）\"：chronic unemployment 长期失业、a chronic shortage of water 长期缺水。**注意**：chronic 只表示\"持续时间长\"，不表示\"程度严重\"。",
+        "examples": [
+          {
+            "en": "Sitting for hours every day can lead to **chronic** back pain.",
+            "zh": "每天久坐数小时可能导致慢性背痛。"
+          },
+          {
+            "en": "Doctors are still searching for better treatments for this **chronic** disease.",
+            "zh": "医生们仍在为这种慢性疾病寻找更好的疗法。"
+          },
+          {
+            "en": "The region suffers from a **chronic** shortage of clean water.",
+            "zh": "该地区长期缺乏清洁用水。"
+          }
+        ]
+      },
+      {
+        "word": "moderation",
+        "ipa": "/ˌmɒdəˈreɪʃn/",
+        "pos": "n.",
+        "meaningCn": "适度；节制",
+        "meaningEn": "The quality of doing something within reasonable limits and avoiding excess.",
+        "notes": "**用法点睛**：最高频搭配是 **in moderation**（适度地）：Enjoy sweets in moderation. 吃甜食要适量。反义表达是 in excess（过度地）。谚语 \"Everything in moderation\"（凡事皆有度）即由此而来。形容词 **moderate**（适度的、中等的）同样常用：moderate exercise 适度运动。**拼写提醒**：注意与 modern（现代的）区分。",
+        "examples": [
+          {
+            "en": "Doctors believe that coffee, enjoyed **in moderation**, can be part of a healthy diet.",
+            "zh": "医生认为，适量饮用咖啡可以成为健康饮食的一部分。"
+          },
+          {
+            "en": "The key to healthy eating is **moderation**, not complete prohibition.",
+            "zh": "健康饮食的关键在于适度，而不是完全禁止。"
+          },
+          {
+            "en": "As the old saying goes, everything in **moderation**.",
+            "zh": "正如古话所说，凡事都要适度。"
+          }
+        ]
+      },
+      {
+        "word": "restore",
+        "ipa": "/rɪˈstɔː(r)/",
+        "pos": "v.",
+        "meaningCn": "恢复（健康、精力、信心等）；修复",
+        "meaningEn": "To bring somebody or something back to a good or former condition; to give back energy, health, or confidence.",
+        "notes": "**用法点睛**：常用搭配 **restore one's energy / health / confidence**（恢复精力/健康/信心）、restore order（恢复秩序）、restore a painting（修复画作）。名词是 **restoration**（恢复；修复）。**近义辨析**：recover 侧重\"自己康复\"（人作主语：recover from a cold），restore 侧重\"使他人或他物恢复\"（宾语是被恢复的对象）。",
+        "examples": [
+          {
+            "en": "A short nap can **restore** your energy in the afternoon.",
+            "zh": "午后小睡片刻能恢复你的精力。"
+          },
+          {
+            "en": "It took months of treatment to **restore** her health.",
+            "zh": "经过数月的治疗，她的健康才得以恢复。"
+          },
+          {
+            "en": "The old temple was carefully **restored** in the 1990s.",
+            "zh": "这座古庙在二十世纪九十年代被精心修复。"
+          }
+        ]
+      },
+      {
+        "word": "sedentary",
+        "ipa": "/ˈsedntri/",
+        "pos": "adj.",
+        "meaningCn": "久坐的；缺乏运动的",
+        "meaningEn": "Involving little exercise or physical activity; spending a lot of time seated.",
+        "notes": "**用法点睛**：健康类文章的绝对高频词，最常见搭配 **a sedentary lifestyle**（久坐的生活方式）和 **sedentary work / a sedentary job**（案头工作）。词根 sed- 来自拉丁语\"坐\"（sediment 沉积物同源——\"坐\"在水底的东西）。反义概念：active / physically active。",
+        "examples": [
+          {
+            "en": "A **sedentary** lifestyle increases the risk of heart disease and diabetes.",
+            "zh": "久坐的生活方式会增加患心脏病和糖尿病的风险。"
+          },
+          {
+            "en": "After years of **sedentary** work, he finally joined a running club.",
+            "zh": "做了多年的案头工作后，他终于加入了一个跑步俱乐部。"
+          },
+          {
+            "en": "Modern office jobs are becoming increasingly **sedentary**.",
+            "zh": "现代办公室工作正变得越来越久坐化。"
+          }
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "phrase": "bounce back",
+        "meaningCn": "（病后、受挫后）快速恢复，重新振作",
+        "examples": [
+          {
+            "en": "Don't worry about the surgery — Grandma is tough, and she'll **bounce back** in no time.",
+            "zh": "别担心手术——奶奶身体底子好，她很快就会恢复的。"
+          },
+          {
+            "en": "The team **bounced back** from last week's defeat with a 3-0 win.",
+            "zh": "球队从上周的失利中缓了过来，以 3 比 0 获胜。"
+          }
+        ]
+      },
+      {
+        "phrase": "recharge your batteries",
+        "meaningCn": "休息充电，恢复精力（字面义\"给电池充电\"）",
+        "examples": [
+          {
+            "en": "I'm taking a week off to **recharge my batteries** by the sea.",
+            "zh": "我要休一周假，去海边给自己充充电。"
+          },
+          {
+            "en": "You can't work twelve hours a day forever — you need to **recharge your batteries** now and then.",
+            "zh": "你不能永远每天工作十二个小时——你需要时不时地休息充电。"
+          }
+        ]
+      },
+      {
+        "phrase": "listen to your body",
+        "meaningCn": "倾听身体的声音（留意疲劳、疼痛等信号，不要硬扛）",
+        "examples": [
+          {
+            "en": "If you feel pain during exercise, stop and rest — **listen to your body**.",
+            "zh": "如果运动时感到疼痛，就停下来休息——要倾听身体的声音。"
+          },
+          {
+            "en": "She kept ignoring her fatigue until she collapsed; she had never learned to **listen to your body**.",
+            "zh": "她一直忽视自己的疲劳，直到病倒；她从未学会倾听身体的信号。"
+          }
+        ]
+      }
+    ],
+    "grammar": {
+      "title": "Modal Verbs for Advice: should / ought to / had better",
+      "content": "### Modal Verbs for Advice: should / ought to / had better\n\n健康话题里到处都是建议：\"你应该多运动\"\"你最好早点睡\"。英语中表达建议的三个核心结构，语气从温和到强烈依次递进。\n\n#### 三者对比\n\n| 结构 | 语气 | 含义 | 典型场景 |\n|------|------|------|----------|\n| **should / shouldn't** | ★★ 中等 | 一般性建议或劝告（\"应该\"） | 朋友、医生的常规建议 |\n| **ought to** | ★★ 中等（更正式） | 与 should 意思几乎相同，语体更正式 | 书面语、正式劝告 |\n| **had better / had better not** | ★★★ 强烈 | \"最好……\"，暗示不照做会有不良后果 | 紧迫的、带警告意味的劝告 |\n\n#### 对比例句\n\n| 例句 | 解读 |\n|------|------|\n| You **should** drink more water and go to bed earlier. | 温和的日常建议 |\n| You **ought to** see a doctor if the pain continues. | 正式建议，约等于 should |\n| You **had better** see a doctor — that cut looks deep. | 强烈建议，暗含\"否则后果自负\" |\n\n#### 正误对比\n\n| 正确 | 错误 | 原因 |\n|------|------|------|\n| You **should** exercise regularly. | You should **to** exercise regularly. | should 后接动词**原形**，不加 to |\n| You **had better not** skip breakfast. | You had **not** better skip breakfast. | 否定词 not 要放在 **better 之后** |\n| She **ought to** rest for a few days. | She **ought** rest for a few days. | ought 后面**必须**带 to |\n\n#### 重点记忆\n\n> **should = 日常建议 ｜ ought to ≈ should（更正式）｜ had better = 强烈警告**\n> 三者后面都接动词原形；变疑问句和否定句时**不加** do / does。\n\n**补充**：对\"过去该做而没做\"的事表示遗憾或批评，用 **should have + 过去分词**：\n> You **should have gone** to bed earlier.（你昨晚本该早点睡——实际没做到，带遗憾或轻微责备的语气。）"
+    },
+    "reading": {
+      "title": "The Sedentary Crisis: Small Steps to a Healthier Life",
+      "passage": "For millions of office workers, a typical day involves sitting for more than nine hours — at a desk, in a car, and on the sofa at night. Doctors have a name for this kind of lifestyle: **sedentary**. Research has linked a sedentary routine to a long list of **chronic** health problems, from heart disease and type 2 diabetes to back pain and depression. More alarmingly, studies suggest that even regular exercise cannot fully cancel out the damage if you spend the rest of the day in a chair.\n\nThe good news is that the human body is remarkably **resilient**. It responds to positive change far more quickly than most people expect, and modest adjustments can **restore** both energy and health within weeks.\n\nExperts recommend three practical strategies. First, move a little, but often. You do not need a gym membership; you need to break up long periods of sitting. Stand up every thirty minutes, walk to a colleague's desk instead of sending a message, or take the stairs instead of the lift. These small movements keep your metabolism active and your muscles engaged.\n\nSecond, practise **moderation** — with food, screens, and even exercise itself. Extreme diets and punishing workout plans rarely survive a busy life. A moderate routine that you can maintain for years is worth far more than a perfect plan you abandon within a month. As one physician puts it, \"The best form of exercise is the one you will actually keep doing.\"\n\nThird, treat sleep as a priority rather than a luxury. Deep sleep is when the body repairs muscle, strengthens memory, and restores the immune system. **Chronic** sleep shortage, by contrast, leaves you exhausted, anxious, and far more likely to reach for junk food.\n\nNone of this requires dramatic sacrifice. Health is not built in a single heroic week; it is built in thousands of ordinary choices. Sit less, move often, eat sensibly, sleep well — and your body will thank you for decades to come.",
+      "translation": "对数以百万计的办公室职员来说，平常的一天里坐着的时间超过九个小时——在办公桌前、在汽车里，晚上还有沙发上。医生给这种生活方式起了个名字：久坐。研究已经把久坐的日常习惯与一长串慢性健康问题联系起来，从心脏病、二型糖尿病到背痛和抑郁。更令人担忧的是，研究表明，即使经常锻炼，如果你一天中其余时间都坐在椅子上，也无法完全抵消久坐的伤害。\n\n好消息是，人体的恢复力惊人。它对积极改变的反应远比大多数人想象的要快，适度的调整就能在几周之内恢复精力和健康。\n\n专家推荐三个实用策略。第一，动一动，但要常动。你不需要健身房会员卡；你需要做的是打断长时间的久坐。每三十分钟站起来一次，走到同事的办公桌前当面沟通而不是发消息，或者爬楼梯而不是坐电梯。这些微小的活动能让你的新陈代谢保持活跃，让肌肉得到锻炼。\n\n第二，凡事有节制——对食物、对屏幕，甚至对运动本身也是如此。极端的节食和让人吃不消的魔鬼训练计划，很难在忙碌的生活中坚持下去。一个你能坚持数年的适度计划，远比一个一个月后就放弃的完美计划有价值。正如一位医生所说：\"最好的运动，是你能真正坚持下去的那一种。\"\n\n第三，把睡眠当作头等大事，而不是奢侈品。深度睡眠正是身体修复肌肉、巩固记忆、恢复免疫系统的时段。相反，长期睡眠不足会让你疲惫不堪、焦虑烦躁，也更容易伸手去拿垃圾食品。\n\n这一切都不需要巨大的牺牲。健康不是在一周的英雄式努力中建成的，而是在成千上万个平凡的选择中积累起来的。少坐、常动、合理饮食、好好睡觉——你的身体会在未来几十年里感谢你。",
+      "vocab": [
+        {
+          "word": "alarmingly",
+          "ipa": "/əˈlɑːmɪŋli/",
+          "meaningCn": "令人担忧地"
+        },
+        {
+          "word": "cancel out",
+          "ipa": "/ˈkænsəl aʊt/",
+          "meaningCn": "抵消"
+        },
+        {
+          "word": "membership",
+          "ipa": "/ˈmembəʃɪp/",
+          "meaningCn": "会员身份；会员资格"
+        },
+        {
+          "word": "metabolism",
+          "ipa": "/məˈtæbəlɪzəm/",
+          "meaningCn": "新陈代谢"
+        },
+        {
+          "word": "punishing",
+          "ipa": "/ˈpʌnɪʃɪŋ/",
+          "meaningCn": "艰苦的，让人吃不消的"
+        },
+        {
+          "word": "physician",
+          "ipa": "/fɪˈzɪʃn/",
+          "meaningCn": "医生（尤指内科医生）"
+        },
+        {
+          "word": "priority",
+          "ipa": "/praɪˈɒrəti/",
+          "meaningCn": "优先事项，头等大事"
+        },
+        {
+          "word": "luxury",
+          "ipa": "/ˈlʌkʃəri/",
+          "meaningCn": "奢侈；奢侈品"
+        },
+        {
+          "word": "exhausted",
+          "ipa": "/ɪɡˈzɔːstɪd/",
+          "meaningCn": "筋疲力尽的"
+        },
+        {
+          "word": "sacrifice",
+          "ipa": "/ˈsækrɪfaɪs/",
+          "meaningCn": "牺牲"
+        }
+      ]
+    },
+    "culture": "### Talking About Health in English\n\n在英语文化中，说自己\"病了\"有一套委婉而地道的说法，直接说 \"I am sick\" 有时显得过重：\n\n- **I'm feeling under the weather.** —— 我有点不舒服（最常用的委婉说法，感冒、疲惫都适用）。\n- **I think I'm coming down with something.** —— 我好像要生病了（come down with something = 开始出现症状）。\n- **I'm not feeling myself today.** —— 我今天状态不太对劲。\n\n**看病场景实用表达**：\n\n- make a doctor's appointment —— 预约看病\n- describe your symptoms —— 描述症状\n- I've had a headache for three days. —— 用现在完成时描述持续的症状（看病高频句式）\n- get a prescription —— 拿到处方\n\n**职场文化提醒**：在英美职场因病缺勤，要尽早 **call in sick**（打电话请病假），简单说明情况即可，不必详述病情。同事生病时常说 **\"I hope you feel better soon.\"** 或 **\"Get well soon!\"** 表达关心。",
+    "quote": "Take care of your body. It's the only place you have to live. — Jim Rohn"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "section": "选词填空",
+      "prompt": "Children are remarkably ___ — they usually recover from a bad cold within a few days.",
+      "options": [
+        "sedentary",
+        "reluctant",
+        "resilient",
+        "moderate"
+      ],
+      "optionsCn": [
+        "久坐的",
+        "不情愿的",
+        "有韧性的，恢复力强的",
+        "适度的"
+      ],
+      "sentenceCn": "孩子们的恢复力惊人——他们通常几天内就能从重感冒中恢复过来。",
+      "answer": 2,
+      "explanation": "resilient 意为\"有韧性的、恢复力强的\"，与句中 recover within a few days（几天内康复）呼应。sedentary（久坐的）、reluctant（不情愿的）、moderate（适度的）均与\"孩子生病好得快\"的语境不符。"
+    },
+    {
+      "type": "choice",
+      "section": "选词填空",
+      "prompt": "Years of desk work gave him ___ back pain that no single treatment could cure.",
+      "options": [
+        "temporary",
+        "chronic",
+        "resilient",
+        "sudden"
+      ],
+      "optionsCn": [
+        "暂时的",
+        "慢性的，长期持续的",
+        "有韧性的",
+        "突然的"
+      ],
+      "sentenceCn": "多年的案头工作使他患上了慢性背痛，没有任何单一疗法能治愈。",
+      "answer": 1,
+      "explanation": "chronic 意为\"（疾病）慢性的、长期持续的\"，与 Years of（多年积累）和 no single treatment could cure（没有单一疗法能治愈）呼应。temporary（暂时的）、sudden（突然的）强调时间短，与\"多年形成\"矛盾；resilient（有韧性的）不能修饰疼痛。"
+    },
+    {
+      "type": "choice",
+      "section": "选词填空",
+      "prompt": "The nutritionist's advice is simple: eat a variety of foods, and enjoy sweets only in ___.",
+      "options": [
+        "moderation",
+        "excess",
+        "restore",
+        "silence"
+      ],
+      "optionsCn": [
+        "适度",
+        "过度",
+        "恢复",
+        "沉默"
+      ],
+      "sentenceCn": "营养师的建议很简单：饮食要多样化，吃甜食要适量。",
+      "answer": 0,
+      "explanation": "in moderation 是固定搭配，意为\"适度地、有节制地\"。注意 in excess（过度地）意思正好相反；restore 是动词，不能作介词 in 的宾语；in silence（沉默地）与\"吃甜食\"的语境无关。"
+    },
+    {
+      "type": "choice",
+      "section": "选词填空",
+      "prompt": "A short holiday by the sea was enough to ___ her energy and enthusiasm.",
+      "options": [
+        "drain",
+        "sedentary",
+        "postpone",
+        "restore"
+      ],
+      "optionsCn": [
+        "耗尽",
+        "久坐的",
+        "推迟",
+        "恢复"
+      ],
+      "sentenceCn": "海边一个短暂的假期就足以恢复她的精力和热情。",
+      "answer": 3,
+      "explanation": "restore 意为\"恢复（精力、健康）\"，常用搭配 restore one's energy（恢复精力）。drain（耗尽）意思相反；sedentary 是形容词\"久坐的\"；postpone（推迟）与\"恢复精力\"无关。"
+    },
+    {
+      "type": "choice",
+      "section": "选词填空",
+      "prompt": "A ___ lifestyle — sitting for nine hours a day — is one of the biggest health risks for office workers.",
+      "options": [
+        "sedentary",
+        "vigorous",
+        "resilient",
+        "occasional"
+      ],
+      "optionsCn": [
+        "久坐的",
+        "充满活力的",
+        "有韧性的",
+        "偶尔的"
+      ],
+      "sentenceCn": "久坐的生活方式——每天坐九个小时——是办公室职员最大的健康风险之一。",
+      "answer": 0,
+      "explanation": "sedentary 意为\"久坐的\"，sedentary lifestyle（久坐的生活方式）是健康话题的高频搭配，与破折号后的解释 sitting for nine hours a day 完全对应。vigorous（充满活力的）意思相反；occasional（偶尔的）与\"每天九小时\"矛盾。"
+    },
+    {
+      "type": "fill",
+      "section": "语法填空",
+      "prompt": "It's almost midnight and you have an early flight tomorrow. You ___ (stay up) any longer.",
+      "blanks": [
+        {
+          "word": "stay up",
+          "accepted": [
+            "had better not stay up",
+            "'d better not stay up"
+          ],
+          "hint": "stay up"
+        }
+      ],
+      "explanation": "\"any longer\" 提示需要否定；深夜还要赶早班机，语境是带警告意味的强烈劝告，应用 had better。否定形式为 **had better not + 动词原形**（not 紧跟在 better 之后）。注意不能写成 had not better。"
+    },
+    {
+      "type": "fill",
+      "section": "语法填空",
+      "prompt": "Doctors say you ___ (walk) for at least thirty minutes a day, and you ___ (not / sit) for hours without a break.",
+      "blanks": [
+        {
+          "word": "walk",
+          "accepted": [
+            "should walk",
+            "ought to walk"
+          ],
+          "hint": "walk"
+        },
+        {
+          "word": "sit",
+          "accepted": [
+            "should not sit",
+            "shouldn't sit",
+            "ought not to sit"
+          ],
+          "hint": "not / sit"
+        }
+      ],
+      "explanation": "一般性健康建议用 should / ought to + 动词原形；否定式为 should not (shouldn't) + 原形。ought to 的否定式是 ought not to，语气更正式。"
+    },
+    {
+      "type": "fill",
+      "section": "语法填空",
+      "prompt": "You look awful this morning. You ___ (go) to bed earlier last night. (But you didn't.)",
+      "blanks": [
+        {
+          "word": "go",
+          "accepted": [
+            "should have gone",
+            "ought to have gone"
+          ],
+          "hint": "go"
+        }
+      ],
+      "explanation": "对过去没有做到的事表示遗憾或批评，用 **should have + 过去分词**（ought to have + 过去分词亦可）：\"昨晚本该早点睡\"。注意不能写成 should went，也不能漏掉 have。"
+    },
+    {
+      "type": "fill",
+      "section": "语法填空",
+      "prompt": "You ___ (rest) last weekend instead of working through it, and now you ___ (see) a doctor about that headache.",
+      "blanks": [
+        {
+          "word": "rest",
+          "accepted": [
+            "should have rested",
+            "ought to have rested"
+          ],
+          "hint": "rest"
+        },
+        {
+          "word": "see",
+          "accepted": [
+            "should see",
+            "ought to see",
+            "had better see"
+          ],
+          "hint": "see"
+        }
+      ],
+      "explanation": "前半句说的是过去（上周末）没做的事，用 should have + 过去分词；后半句是对现在的建议，用 should / ought to / had better + 动词原形。一句话里\"过去之憾\"与\"当下之劝\"形成对比。"
+    },
+    {
+      "type": "fill",
+      "section": "语法填空",
+      "prompt": "That cut looks deep — you ___ (go) to the emergency room right now, and you ___ (not / drive) yourself.",
+      "blanks": [
+        {
+          "word": "go",
+          "accepted": [
+            "had better go",
+            "'d better go",
+            "should go",
+            "ought to go"
+          ],
+          "hint": "go"
+        },
+        {
+          "word": "drive",
+          "accepted": [
+            "had better not drive",
+            "should not drive",
+            "shouldn't drive",
+            "ought not to drive"
+          ],
+          "hint": "not / drive"
+        }
+      ],
+      "explanation": "伤口很深、情况紧急，had better（最好，暗含警告意味）最贴切（should / ought to 语法上也正确）。否定式 had better not drive / shouldn't drive，后接动词原形。"
+    },
+    {
+      "type": "match",
+      "section": "短语匹配",
+      "left": [
+        "Bounce back",
+        "Recharge your batteries",
+        "Listen to your body"
+      ],
+      "right": [
+        "倾听身体的声音，留意疲劳、疼痛等信号",
+        "（病后、受挫后）快速恢复，重新振作",
+        "休息放松，恢复精力"
+      ],
+      "pairs": [
+        1,
+        2,
+        0
+      ],
+      "explanation": "bounce back 本义\"弹回\"，引申为病后或受挫后快速恢复；recharge your batteries 字面是\"给电池充电\"，比喻通过休息恢复精力；listen to your body 指留意身体发出的疲劳、疼痛等信号，不要硬扛。"
+    },
+    {
+      "type": "translate",
+      "section": "句子翻译",
+      "direction": "zh2en",
+      "source": "孩子们比成年人更有韧性——生病后他们通常恢复得很快。",
+      "reference": "Children are more resilient than adults — they usually bounce back quickly after an illness.",
+      "keyPoints": [
+        "resilient（有韧性的、恢复力强的）",
+        "bounce back（病后快速恢复）",
+        "比较级 more ... than 结构"
+      ],
+      "explanation": "\"有韧性\"用 resilient 作表语；\"恢复得快\"既可以直接说 recover quickly，也可以用本课短语 bounce back，后者更口语化、更生动。"
+    },
+    {
+      "type": "translate",
+      "section": "句子翻译",
+      "direction": "zh2en",
+      "source": "久坐的生活方式会导致慢性健康问题，比如心脏病和背痛。",
+      "reference": "A sedentary lifestyle can lead to chronic health problems, such as heart disease and back pain.",
+      "keyPoints": [
+        "sedentary lifestyle（久坐的生活方式）",
+        "chronic（慢性的）",
+        "lead to（导致）",
+        "such as（比如）"
+      ],
+      "explanation": "sedentary 和 chronic 是本课两个核心词。\"导致\"用 lead to，to 后接名词；\"比如\"用 such as + 名词，注意不用 for example 加从句的形式。"
+    },
+    {
+      "type": "translate",
+      "section": "句子翻译",
+      "direction": "zh2en",
+      "source": "营养师建议我均衡饮食，甜食只能适量吃。",
+      "reference": "The nutritionist advised me to eat a balanced diet and to have sweets only in moderation.",
+      "keyPoints": [
+        "advise sb. to do sth.（建议某人做某事）",
+        "a balanced diet（均衡饮食）",
+        "in moderation（适量地）"
+      ],
+      "explanation": "\"建议某人做某事\"用 advise sb. to do sth.；\"适量\"用固定搭配 in moderation，注意中间不加冠词。"
+    },
+    {
+      "type": "translate",
+      "section": "句子翻译",
+      "direction": "zh2en",
+      "source": "一周的假期完全恢复了她的精力——她回来时感觉像换了个人。",
+      "reference": "A week's holiday completely restored her energy — she came back feeling like a new person.",
+      "keyPoints": [
+        "restore one's energy（恢复精力）",
+        "feeling like a new person（感觉焕然一新）",
+        "come back 的过去式 came"
+      ],
+      "explanation": "\"恢复精力\"用 restore one's energy（restore 比 recover 更强调\"使……恢复\"，宾语是被恢复的对象）；\"感觉像换了个人\"译为 feeling like a new person，作伴随状语。"
+    },
+    {
+      "type": "translate",
+      "section": "句子翻译",
+      "direction": "zh2en",
+      "source": "你昨天本该去看医生的。",
+      "reference": "You should have seen a doctor yesterday.",
+      "keyPoints": [
+        "should have + 过去分词（过去本该做而未做）",
+        "see a doctor（看医生）",
+        "yesterday 表明建议针对过去"
+      ],
+      "explanation": "\"昨天本该……（但没做）\"用 should have + 过去分词，含遗憾或轻微责备的语气。也可以说 ought to have seen a doctor。"
+    },
+    {
+      "type": "truefalse",
+      "section": "阅读理解",
+      "statement": "According to the passage, even people who exercise regularly can still suffer harm if they spend the rest of the day sitting.",
+      "answer": true,
+      "explanation": "第一段末句明确指出：studies suggest that even regular exercise cannot fully cancel out the damage if you spend the rest of the day in a chair（即使经常锻炼，也无法完全抵消其余时间久坐带来的伤害）。"
+    },
+    {
+      "type": "truefalse",
+      "section": "阅读理解",
+      "statement": "The passage says that standing up every thirty minutes helps keep your metabolism active.",
+      "answer": true,
+      "explanation": "第三段建议 Stand up every thirty minutes...，并说 These small movements keep your metabolism active and your muscles engaged（这些小活动能让新陈代谢保持活跃、让肌肉得到锻炼）。"
+    },
+    {
+      "type": "truefalse",
+      "section": "阅读理解",
+      "statement": "According to the passage, the body needs several years of adjustments before energy and health can be restored.",
+      "answer": false,
+      "explanation": "第二段说 modest adjustments can restore both energy and health within weeks（适度的调整在几周之内即可恢复精力与健康），而不是几年。"
+    },
+    {
+      "type": "truefalse",
+      "section": "阅读理解",
+      "statement": "The passage states that during deep sleep, the body repairs muscle and strengthens memory.",
+      "answer": true,
+      "explanation": "第五段：Deep sleep is when the body repairs muscle, strengthens memory, and restores the immune system（深度睡眠是身体修复肌肉、巩固记忆、恢复免疫系统的时段）。"
+    },
+    {
+      "type": "truefalse",
+      "section": "阅读理解",
+      "statement": "The passage concludes that good health is built in a single heroic week of intense effort.",
+      "answer": false,
+      "explanation": "结尾段说 Health is not built in a single heroic week; it is built in thousands of ordinary choices（健康不是在一周的英雄式努力中建成，而是在成千上万个平凡的选择中积累起来的）。"
+    }
+  ]
+}

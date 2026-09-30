@@ -1,0 +1,296 @@
+{
+  "id": "2026-09-29",
+  "date": "2026-09-29",
+  "weekday": "Tuesday",
+  "level": "Intermediate",
+  "theme": "Environment & Sustainability",
+  "language": "en",
+  "study": {
+    "vocabulary": [
+      {
+        "word": "chronic",
+        "ipa": "/ˈkrɒnɪk/",
+        "pos": "adj.",
+        "meaningCn": "慢性的；长期的；（问题）持续严重的",
+        "meaningEn": "lasting for a long time; persistent and hard to resolve",
+        "notes": "昨日复习词。在环境主题中，**chronic pollution** 指长期、持续的污染，难以在短期内消除。常见搭配：chronic disease, chronic shortage, chronic unemployment。",
+        "examples": [
+          {"en": "**Chronic** exposure to air pollution can lead to respiratory diseases.", "zh": "长期暴露在空气污染中可能导致呼吸系统疾病。"},
+          {"en": "The region suffers from **chronic** water shortages during the dry season.", "zh": "该地区在旱季遭受长期的缺水问题。"}
+        ]
+      },
+      {
+        "word": "restore",
+        "ipa": "/rɪˈstɔːr/",
+        "pos": "v.",
+        "meaningCn": "恢复；修复；使复原",
+        "meaningEn": "to bring back to a former condition; to repair or renovate",
+        "notes": "昨日复习词。环境话题中常见搭配：**restore ecosystems / restore wetlands / restore degraded land**。名词形式为 restoration。",
+        "examples": [
+          {"en": "The government launched a program to **restore** the degraded wetlands.", "zh": "政府启动了一项修复退化湿地的计划。"},
+          {"en": "It takes decades to **restore** a damaged coral reef to its former health.", "zh": "将受损的珊瑚礁恢复到以前的健康状态需要数十年。"}
+        ]
+      },
+      {
+        "word": "resilient",
+        "ipa": "/rɪˈzɪliənt/",
+        "pos": "adj.",
+        "meaningCn": "有恢复力的；适应力强的；有韧性的",
+        "meaningEn": "able to recover quickly from difficulties; adaptable to change",
+        "notes": "昨日复习词。**resilient ecosystems** 指能够从自然灾害中恢复的生态系统。名词形式为 resilience。",
+        "examples": [
+          {"en": "**Resilient** ecosystems can recover from natural disasters more quickly.", "zh": "有恢复力的生态系统能更快地从自然灾害中恢复。"},
+          {"en": "We need to build more **resilient** cities in the face of climate change.", "zh": "面对气候变化，我们需要建设更具韧性的城市。"}
+        ]
+      },
+      {
+        "word": "sustainable",
+        "ipa": "/səˈsteɪnəbl/",
+        "pos": "adj.",
+        "meaningCn": "可持续的；能长期维持的",
+        "meaningEn": "able to be maintained over the long term without depleting resources or causing harm",
+        "notes": "CET-6 高频词。常见搭配：**sustainable development**（可持续发展）、**sustainable agriculture**（可持续农业）、**sustainable energy**（可持续能源）。",
+        "examples": [
+          {"en": "**Sustainable** development meets present needs without harming future generations.", "zh": "可持续发展满足当代需求而不损害后代。"},
+          {"en": "The company switched to **sustainable** packaging to reduce plastic waste.", "zh": "该公司改用可持续包装以减少塑料废物。"}
+        ]
+      },
+      {
+        "word": "biodiversity",
+        "ipa": "/ˌbaɪoʊdaɪˈvɜːrsɪti/",
+        "pos": "n.",
+        "meaningCn": "生物多样性",
+        "meaningEn": "the variety of plant and animal life in a particular ecosystem or the world",
+        "notes": "bio-（生命）+ diversity（多样性）。**biodiversity loss** 是环境话题核心议题之一。",
+        "examples": [
+          {"en": "**Biodiversity** loss threatens the stability of global ecosystems.", "zh": "生物多样性的丧失威胁着全球生态系统的稳定性。"},
+          {"en": "The rainforest is home to incredible **biodiversity**.", "zh": "雨林是令人难以置信的生物多样性的家园。"}
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "phrase": "go green",
+        "meaningCn": "采取环保方式；走向绿色环保",
+        "examples": [
+          {"en": "Many companies are **going green** to attract environmentally conscious consumers.", "zh": "许多公司正在采取环保方式以吸引具有环保意识的消费者。"},
+          {"en": "Our school decided to **go green** by eliminating single-use plastics.", "zh": "我们学校决定通过消除一次性塑料来走向绿色环保。"}
+        ]
+      },
+      {
+        "phrase": "a drop in the ocean",
+        "meaningCn": "沧海一粟；微不足道的一小部分",
+        "examples": [
+          {"en": "Our recycling efforts are just **a drop in the ocean** compared to the total waste produced.", "zh": "与产生的废物总量相比，我们的回收努力只是沧海一粟。"},
+          {"en": "One person's contribution feels like **a drop in the ocean**, but collective action matters.", "zh": "一个人的贡献感觉只是沧海一粟，但集体行动很重要。"}
+        ]
+      },
+      {
+        "phrase": "carbon footprint",
+        "meaningCn": "碳足迹（个人或组织的温室气体排放量）",
+        "examples": [
+          {"en": "Flying significantly increases your **carbon footprint**.", "zh": "乘坐飞机会显著增加你的碳足迹。"},
+          {"en": "We can reduce our **carbon footprint** by using public transport.", "zh": "我们可以通过使用公共交通来减少碳足迹。"}
+        ]
+      }
+    ],
+    "grammar": {
+      "title": "被动语态中的情态动词 (Passive Modals)",
+      "content": "# 被动语态中的情态动词 (Passive Modals)\n\n## 基本结构\n\n当情态动词用于被动语态时，结构为：**情态动词 + be + 过去分词**（现在/将来）或 **情态动词 + have been + 过去分词**（过去）。\n\n## 现在/将来被动情态\n\n| 情态动词 | 结构 | 例句 |\n|---------|------|------|\n| must | must be done | The report must be submitted by Friday. |\n| should | should be done | More trees should be planted. |\n| could | could be done | This problem could be solved easily. |\n| may | may be done | The results may be affected by weather. |\n| might | might be done | The plan might be changed. |\n\n## 过去被动情态\n\n| 情态动词 | 结构 | 例句 |\n|---------|------|------|\n| should have | should have been done | The forest should have been protected. |\n| could have | could have been done | The waste could have been recycled. |\n| must have | must have been done | The species must have been studied before. |\n| might have | might have been done | The area might have been contaminated. |\n\n## 正确与错误示例\n\n- The polluted river **should have been cleaned** years ago.\n- The polluted river **should have cleaned** years ago. (错误：缺少 been)\n- Endangered animals **must be protected** by law.\n- Endangered animals **must protected** by law. (错误：缺少 be)\n\n## 与昨天的联系\n\n昨天我们学习了情态动词表示建议（should have done, had better not）。今天我们将情态动词扩展到被动语态。注意：**should have been done** 表示\"过去应该被做（但没做）\"，这正是昨天 should have + 过去分词 的被动形式。两者的逻辑完全一致，只是增加了被动语态的 be 和 been。"
+    },
+    "reading": {
+      "title": "The Path to a Sustainable Future",
+      "passage": "The world faces unprecedented environmental challenges. From rising global temperatures to the rapid loss of biodiversity, the signs of ecological distress are everywhere. Scientists warn that without immediate action, many ecosystems will reach a tipping point beyond which they cannot recover. The window of opportunity to address these crises is narrowing rapidly.\n\nOne of the most pressing issues is chronic pollution. For decades, industrial waste has contaminated rivers and soil, creating long-term damage that is difficult to reverse. Governments and organizations are now investing heavily in efforts to restore degraded landscapes. However, experts emphasize that prevention is always more cost-effective than cleanup, and early intervention can save both money and lives.\n\nBuilding resilient ecosystems is another key strategy. Resilient environments can withstand shocks such as droughts, floods, and disease outbreaks. This resilience often depends on high levels of biodiversity — the variety of life forms within an ecosystem. When biodiversity declines, ecosystems become fragile and less able to adapt to change. Protecting natural habitats is therefore not just a moral duty but a practical necessity.\n\nIndividual actions also matter. Reducing your carbon footprint by using public transport, eating less meat, and conserving energy are practical steps anyone can take. While some people feel their efforts are just a drop in the ocean, collective action can drive meaningful change. Many communities are choosing to go green, adopting sustainable practices in daily life and encouraging businesses to follow suit.\n\nThe transition to a sustainable future requires cooperation at every level — individual, community, national, and global. It demands that we rethink our relationship with the natural world and prioritize long-term ecological health over short-term economic gains. Only by working together can we build a world where both people and nature thrive.",
+      "translation": "世界面临着前所未有的环境挑战。从全球气温上升到生物多样性的迅速丧失，生态危机的迹象无处不在。科学家警告说，如果不立即采取行动，许多生态系统将达到一个无法恢复的临界点。解决这些危机的机会窗口正在迅速缩小。\n\n最紧迫的问题之一是慢性污染。几十年来，工业废物污染了河流和土壤，造成了难以逆转的长期损害。各国政府和组织正在投入大量资金来恢复退化的景观。然而，专家强调，预防总是比清理更具成本效益，早期干预可以挽救金钱和生命。\n\n建设有恢复力的生态系统是另一项关键策略。有恢复力的环境能够抵御干旱、洪水和疾病爆发等冲击。这种恢复力往往取决于高水平的生物多样性——生态系统内生命形式的丰富程度。当生物多样性下降时，生态系统变得脆弱，适应变化的能力也会减弱。因此，保护自然栖息地不仅是一种道德责任，也是实际需要。\n\n个人行动也很重要。通过乘坐公共交通、少吃肉和节约能源来减少碳足迹，是任何人都可以采取的实际步骤。虽然有些人觉得自己的努力只是沧海一粟，但集体行动可以推动有意义的变革。许多社区正在选择走向绿色，在日常生活中采用可持续的做法，并鼓励企业效仿。\n\n向可持续未来的转型需要各个层面的合作——个人、社区、国家和全球。它要求我们重新思考与自然世界的关系，将长期生态健康置于短期经济利益之上。只有通过共同努力，我们才能建设一个人类与自然共同繁荣的世界。",
+      "vocab": [
+        {"word": "unprecedented", "ipa": "/ʌnˈpresɪdentɪd/", "meaningCn": "前所未有的"},
+        {"word": "biodiversity", "ipa": "/ˌbaɪoʊdaɪˈvɜːrsɪti/", "meaningCn": "生物多样性"},
+        {"word": "ecological", "ipa": "/ˌiːkəˈlɒdʒɪkl/", "meaningCn": "生态的"},
+        {"word": "chronic", "ipa": "/ˈkrɒnɪk/", "meaningCn": "慢性的，长期的"},
+        {"word": "contaminated", "ipa": "/kənˈtæmɪneɪtɪd/", "meaningCn": "被污染的"},
+        {"word": "restore", "ipa": "/rɪˈstɔːr/", "meaningCn": "恢复，修复"},
+        {"word": "resilient", "ipa": "/rɪˈzɪliənt/", "meaningCn": "有恢复力的"},
+        {"word": "withstand", "ipa": "/wɪðˈstænd/", "meaningCn": "承受，抵御"},
+        {"word": "carbon footprint", "ipa": "/ˌkɑːrbən ˈfʊtprɪnt/", "meaningCn": "碳足迹"},
+        {"word": "sustainable", "ipa": "/səˈsteɪnəbl/", "meaningCn": "可持续的"}
+      ]
+    },
+    "culture": "The concept of sustainable development was popularized by the 1987 Brundtland Report (formally titled Our Common Future), published by the World Commission on Environment and Development. It defined sustainable development as development that meets the needs of the present without compromising the ability of future generations to meet their own needs. This idea has since become a cornerstone of international environmental policy, influencing agreements such as the Paris Climate Agreement of 2015.",
+    "quote": "\"The Earth does not belong to us; we belong to the Earth.\" — Chief Seattle"
+  },
+  "exercises": [
+    {
+      "type": "choice",
+      "section": "选词填空",
+      "prompt": "The ______ effects of air pollution on children's health have been well documented.",
+      "options": ["sustainable", "chronic", "biodiversity", "restore", "resilient"],
+      "optionsCn": ["可持续的", "慢性的，长期的", "生物多样性", "恢复", "有恢复力的"],
+      "sentenceCn": "空气污染对儿童健康的长期影响已得到充分记录。",
+      "answer": 1,
+      "explanation": "chronic 意为'慢性的、长期的'，修饰 effects 表示'长期的影响'。sustainable（可持续的）语义不符；biodiversity（生物多样性）是名词不能修饰 effects；restore 是动词原形，不能作定语；resilient（有恢复力的）修饰 effects 不合理。"
+    },
+    {
+      "type": "choice",
+      "section": "选词填空",
+      "prompt": "The government has launched an ambitious project to ______ the degraded wetlands.",
+      "options": ["resilient", "biodiversity", "sustainable", "restore", "chronic"],
+      "optionsCn": ["有恢复力的", "生物多样性", "可持续的", "恢复，修复", "慢性的"],
+      "sentenceCn": "政府启动了一项雄心勃勃的计划来修复退化的湿地。",
+      "answer": 3,
+      "explanation": "restore 意为'恢复、修复'，to restore the degraded wetlands 是不定式作目的状语。resilient 和 sustainable 是形容词，不能作不定式动词；biodiversity 是名词；chronic 是形容词。只有 restore 是及物动词，符合语法和语义。"
+    },
+    {
+      "type": "choice",
+      "section": "选词填空",
+      "prompt": "Coral reefs are remarkably ______ and can recover from bleaching events if given enough time.",
+      "options": ["restore", "chronic", "resilient", "sustainable", "biodiversity"],
+      "optionsCn": ["恢复", "慢性的", "有恢复力的，适应力强的", "可持续的", "生物多样性"],
+      "sentenceCn": "珊瑚礁具有显著的恢复力，如果有足够的时间就能从白化事件中恢复过来。",
+      "answer": 2,
+      "explanation": "resilient 意为'有恢复力的'，与后文 can recover 形成语义呼应。restore 是动词，不能作表语形容词；chronic 表示'慢性的'，与 recover 矛盾；sustainable 修饰 reefs 不合理；biodiversity 是名词不能作表语。"
+    },
+    {
+      "type": "choice",
+      "section": "选词填空",
+      "prompt": "Protecting ______ is essential for maintaining healthy ecosystems.",
+      "options": ["resilient", "sustainable", "chronic", "restore", "biodiversity"],
+      "optionsCn": ["有恢复力的", "可持续的", "慢性的", "恢复", "生物多样性"],
+      "sentenceCn": "保护生物多样性对于维持健康的生态系统至关重要。",
+      "answer": 4,
+      "explanation": "biodiversity 意为'生物多样性'，protecting biodiversity 是常见环保表达，作 protecting 的宾语。resilient、sustainable、chronic 都是形容词，不能作宾语；restore 是动词，不能作 protecting 的宾语。"
+    },
+    {
+      "type": "choice",
+      "section": "选词填空",
+      "prompt": "We need to shift toward more ______ farming practices to protect the land for future generations.",
+      "options": ["biodiversity", "restore", "chronic", "resilient", "sustainable"],
+      "optionsCn": ["生物多样性", "恢复", "慢性的", "有恢复力的", "可持续的"],
+      "sentenceCn": "我们需要转向更可持续的农业实践，为子孙后代保护土地。",
+      "answer": 4,
+      "explanation": "sustainable 意为'可持续的'，sustainable farming practices 是固定搭配'可持续农业实践'。biodiversity 是名词不能修饰 practices；restore 是动词；chronic 表示'慢性的'语义不符；resilient 修饰 practices 不自然。"
+    },
+    {
+      "type": "fill",
+      "section": "语法填空",
+      "prompt": "These endangered species must ___ from illegal hunting.",
+      "blanks": [{"word": "protect", "accepted": ["be protected"], "hint": "被动语态：must + be + 过去分词"}],
+      "explanation": "被动情态结构：must + be + 过去分词 (protected)。主语 endangered species 是被保护的对象，必须用被动语态。对比昨天的主动语态 should have done，这里是被动 should have been done 的简化版。"
+    },
+    {
+      "type": "fill",
+      "section": "语法填空",
+      "prompt": "The damaged forest should ___ years ago, but nothing was done.",
+      "blanks": [{"word": "restore", "accepted": ["have been restored"], "hint": "过去被动：should + have been + 过去分词"}],
+      "explanation": "过去被动情态：should + have been + 过去分词 (restored)。表示'过去应该被恢复（但实际没做）'。这与昨天 should have + 过去分词的逻辑完全一致，只是增加了被动语态的 been。时间状语 years ago 明确指向过去。"
+    },
+    {
+      "type": "fill",
+      "section": "语法填空",
+      "prompt": "Renewable energy sources could ___ more widely if governments invested in infrastructure.",
+      "blanks": [{"word": "use", "accepted": ["be used"], "hint": "被动语态：could + be + 过去分词"}],
+      "explanation": "被动情态：could + be + 过去分词 (used)。主语 renewable energy sources 是被使用的对象，用被动语态。if 引导的条件句用过去式 invested 表示虚拟，主句用 could be used。"
+    },
+    {
+      "type": "fill",
+      "section": "语法填空",
+      "prompt": "The environmental report must ___ by Friday; the deadline is strict.",
+      "blanks": [{"word": "submit", "accepted": ["be submitted"], "hint": "被动语态：must + be + 过去分词"}],
+      "explanation": "被动情态：must + be + 过去分词 (submitted)。report 是被提交的对象，必须用被动。must 表示强烈的义务或必要性，比 should 语气更强。"
+    },
+    {
+      "type": "fill",
+      "section": "语法填空",
+      "prompt": "These emissions standards ought to ___ more strictly in the past.",
+      "blanks": [{"word": "enforce", "accepted": ["have been enforced"], "hint": "过去被动：ought to + have been + 过去分词"}],
+      "explanation": "过去被动情态：ought to + have been + 过去分词 (enforced)。ought to 与 should 用法相似，表示'过去应该被更严格执行（但没做到）'。in the past 明确指向过去时间，需要用 have been 形式。"
+    },
+    {
+      "type": "match",
+      "section": "短语匹配",
+      "left": ["go green", "a drop in the ocean", "carbon footprint"],
+      "right": ["碳足迹", "采取环保方式", "沧海一粟"],
+      "pairs": [1, 2, 0],
+      "explanation": "go green → 采取环保方式（采取对环境友好的做法）；a drop in the ocean → 沧海一粟（比喻与整体相比微不足道）；carbon footprint → 碳足迹（个人或组织活动产生的温室气体总量）。"
+    },
+    {
+      "type": "translate",
+      "section": "句子翻译",
+      "direction": "zh2en",
+      "source": "慢性污染已经严重损害了当地的生态系统。",
+      "reference": "Chronic pollution has severely damaged the local ecosystem.",
+      "keyPoints": ["chronic 作形容词修饰 pollution，表示'慢性的、长期的'（昨日复习词复用）", "damage 作动词表示'损害'", "ecosystem 生态系统（可数名词，此处用单数）"],
+      "explanation": "昨日复习词 chronic 在环境主题中的复用。chronic pollution 是常见搭配，指长期持续的污染问题，与昨天的 chronic disease 用法一致。"
+    },
+    {
+      "type": "translate",
+      "section": "句子翻译",
+      "direction": "zh2en",
+      "source": "我们必须减少碳足迹以应对气候变化。",
+      "reference": "We must reduce our carbon footprint to combat climate change.",
+      "keyPoints": ["carbon footprint 碳足迹（今日短语）", "combat 应对、对抗（比 fight 更正式，适合书面语）", "climate change 气候变化（固定表达）"],
+      "explanation": "carbon footprint 是今日学习的环保短语，表示个人或组织的温室气体排放量。to combat climate change 是不定式作目的状语。"
+    },
+    {
+      "type": "translate",
+      "section": "句子翻译",
+      "direction": "zh2en",
+      "source": "这个项目旨在恢复退化的森林。",
+      "reference": "The project aims to restore the degraded forests.",
+      "keyPoints": ["aim to do 旨在做某事", "restore 恢复、修复（昨日复习词复用）", "degraded 退化的（环境话题高频词）"],
+      "explanation": "昨日复习词 restore 在环境主题中的复用。restore degraded forests 是环保领域常见表达，aim to do 表示'旨在做某事'。"
+    },
+    {
+      "type": "translate",
+      "section": "句子翻译",
+      "direction": "zh2en",
+      "source": "可持续农业对保护生物多样性至关重要。",
+      "reference": "Sustainable agriculture is crucial to protecting biodiversity.",
+      "keyPoints": ["sustainable agriculture 可持续农业", "be crucial to 对……至关重要（to 是介词，后接动名词 protecting）", "biodiversity 生物多样性"],
+      "explanation": "注意 be crucial to 中的 to 是介词，后面接动名词 protecting，不是不定式 to protect。这是中国学生常犯的错误。"
+    },
+    {
+      "type": "translate",
+      "section": "句子翻译",
+      "direction": "zh2en",
+      "source": "这些脆弱的生态系统需要变得更有恢复力。",
+      "reference": "These fragile ecosystems need to become more resilient.",
+      "keyPoints": ["fragile 脆弱的", "resilient 有恢复力的、有韧性的（昨日复习词复用）", "need to become 需要变得"],
+      "explanation": "昨日复习词 resilient 在环境主题中的复用。resilient ecosystems 是环保核心概念之一，表示能够抵御冲击并恢复的生态系统。"
+    },
+    {
+      "type": "truefalse",
+      "section": "阅读理解",
+      "statement": "Scientists believe that all damaged ecosystems can still recover if we act now.",
+      "answer": false,
+      "explanation": "文章提到 many ecosystems will reach a tipping point beyond which they cannot recover，说明有些生态系统可能已到达无法恢复的临界点，并非所有都能恢复。"
+    },
+    {
+      "type": "truefalse",
+      "section": "阅读理解",
+      "statement": "Chronic pollution has caused long-term damage that is difficult to reverse.",
+      "answer": true,
+      "explanation": "文章明确提到 industrial waste has contaminated rivers and soil, creating long-term damage that is difficult to reverse，与题目表述完全一致。"
+    },
+    {
+      "type": "truefalse",
+      "section": "阅读理解",
+      "statement": "Building resilient ecosystems depends partly on maintaining biodiversity.",
+      "answer": true,
+      "explanation": "文章指出 This resilience often depends on high levels of biodiversity，说明生物多样性与生态恢复力密切相关，维持生物多样性是建设有恢复力生态系统的基础。"
+    },
+    {
+      "type": "truefalse",
+      "section": "阅读理解",
+      "statement": "The author believes individual efforts are meaningless in solving environmental problems.",
+      "answer": false,
+      "explanation": "文章明确说 Individual actions also matter，并指出 collective action can drive meaningful change，作者认为个人行动是有意义的，而非 meaningless。"
+    },
+    {
+      "type": "truefalse",
+      "section": "阅读理解",
+      "statement": "The transition to sustainability requires cooperation only at the national and global levels.",
+      "answer": false,
+      "explanation": "文章明确指出需要 cooperation at every level — individual, community, national, and global，强调四个层面的合作，不仅仅是国家和全球层面。"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "id": "2026-09-29-ja",
+  "date": "2026-09-29",
+  "weekday": "Tuesday",
+  "level": "Beginner",
+  "theme": "五十音・か行",
+  "language": "ja",
+  "study": {
+    "vocabulary": [
+      {
+        "word": "か / カ",
+        "ipa": "ka",
+        "pos": "假名",
+        "meaningCn": "平假名 か 由汉字「加」的草书简化；片假名 カ 取自「加」的偏旁。\n\n记忆：加 → か (ka)",
+        "notes": "发音类似中文「咖」或英语中的 ka，嘴形张开，气流自然送出。",
+        "examples": [
+          {"ja": "あか（赤）", "zh": "红色"},
+          {"ja": "かお（顔）", "zh": "脸、面容"}
+        ]
+      },
+      {
+        "word": "き / キ",
+        "ipa": "ki",
+        "pos": "假名",
+        "meaningCn": "平假名 き 由汉字「幾」的草书简化；片假名 キ 形似「幾」的上半。\n\n记忆：幾 → き (ki)",
+        "notes": "发音类似英语 key 的 ki，但更短促，舌面抵住硬腭。",
+        "examples": [
+          {"ja": "あき（秋）", "zh": "秋天"},
+          {"ja": "かき（柿）", "zh": "柿子；牡蛎"}
+        ]
+      },
+      {
+        "word": "く / ク",
+        "ipa": "ku",
+        "pos": "假名",
+        "meaningCn": "平假名 く 由汉字「久」的草书简化；片假名 ク 取自「久」的左上部分。\n\n记忆：久 → く (ku)",
+        "notes": "く 的发音短促，气流从舌根与软腭间挤出（类似英语 key 但更轻），不是中文「枯」。",
+        "examples": [
+          {"ja": "かく（書く）", "zh": "写、画（动词）"},
+          {"ja": "あく（開く）", "zh": "开、打开（动词）"}
+        ]
+      },
+      {
+        "word": "け / ケ",
+        "ipa": "ke",
+        "pos": "假名",
+        "meaningCn": "平假名 け 由汉字「计」的草书简化；片假名 ケ 形似「介」的下半。\n\n记忆：計 → け (ke)",
+        "notes": "发音类似中文「开」的韵母部分，嘴形稍扁。",
+        "examples": [
+          {"ja": "いけ（池）", "zh": "池塘"},
+          {"ja": "かけ（掛け）", "zh": "挂、悬挂"}
+        ]
+      },
+      {
+        "word": "こ / コ",
+        "ipa": "ko",
+        "pos": "假名",
+        "meaningCn": "平假名 こ 由汉字「己」的草书简化；片假名 コ 取自「己」的右上。\n\n记忆：己 → こ (ko)",
+        "notes": "发音类似中文「口」的声母 k + 哦，嘴形圆润。",
+        "examples": [
+          {"ja": "ここ", "zh": "这里"},
+          {"ja": "こえ（声）", "zh": "声音"}
+        ]
+      }
+    ],
+    "phrases": [
+      {
+        "phrase": "あか",
+        "meaningCn": "红色。日语中「赤」读作 あか，是婴儿称「赤ちゃん」的来源。",
+        "examples": [
+          {"ja": "あかい", "zh": "红色的（あか + い）"},
+          {"ja": "あか", "zh": "红"}
+        ]
+      },
+      {
+        "phrase": "ここ",
+        "meaningCn": "这里、此处。日常会话中最常用的指示词之一。",
+        "examples": [
+          {"ja": "ここ", "zh": "这里"},
+          {"ja": "ここ", "zh": "此处"}
+        ]
+      },
+      {
+        "phrase": "あき",
+        "meaningCn": "秋天。日本文化中秋天与红叶、收获紧密相连。",
+        "examples": [
+          {"ja": "あき", "zh": "秋天"},
+          {"ja": "あかいあき", "zh": "红色的秋（诗歌用语）"}
+        ]
+      }
+    ],
+    "grammar": {
+      "title": "か行发音要点：か行辅音与あ行元音的组合",
+      "content": "か行是五十音图中第二行假名，由辅音「k」与あ行五个元音（a, i, u, e, o）组合而成：\n\n| 假名 | 罗马音 | 构成 |\n|------|--------|------|\n| か | ka | k + a |\n| き | ki | k + i |\n| く | ku | k + u |\n| け | ke | k + e |\n| こ | ko | k + o |\n\n**发音要点：**\n- か行属于「清音」（unvoiced），发音时声带不振动。\n- 与中文对比：か行的 k 比中文「k」更轻，气流更短促。\n- 特别注意「き」：不是中文「ki」，更接近英语 key 的 ki，舌面抵住硬腭。\n- 「く」不是中文「枯」，发音更轻，类似英语 key 但更短。\n\n**预告：**\nか行浊化后成为「が行」（ga, gi, gu, ge, go），将在后续学习中接触到。"
+    },
+    "reading": {
+      "title": "か行认读：あ行 + か行单词练习",
+      "passage": "请尝试朗读以下单词（仅含 あ行 + か行）：\n\n1. あか\n2. ここ\n3. あき\n4. かお\n5. いけ\n6. かく\n7. あく\n8. こえ\n9. あけ\n10. きく",
+      "translation": "1. 红（赤）\n2. 这里\n3. 秋天\n4. 脸（顔）\n5. 池塘（池）\n6. 写（書く）\n7. 开（開く）\n8. 声音（声）\n9. 亮、天明（明け）\n10. 听（聞く）；菊花（菊）",
+      "vocab": [
+        {"word": "あか", "ipa": "aka", "meaningCn": "红、红色"},
+        {"word": "ここ", "ipa": "koko", "meaningCn": "这里、此处"},
+        {"word": "あき", "ipa": "aki", "meaningCn": "秋天"},
+        {"word": "かお", "ipa": "kao", "meaningCn": "脸、面容"},
+        {"word": "いけ", "ipa": "ike", "meaningCn": "池塘"},
+        {"word": "かく", "ipa": "kaku", "meaningCn": "写、画（动词）"},
+        {"word": "あく", "ipa": "aku", "meaningCn": "开、打开（动词）"},
+        {"word": "こえ", "ipa": "koe", "meaningCn": "声音"},
+        {"word": "あけ", "ipa": "ake", "meaningCn": "亮、天明"},
+        {"word": "きく", "ipa": "kiku", "meaningCn": "听；菊花"}
+      ]
+    },
+    "culture": "か行在日语中非常活跃，许多日常高频词都包含か行假名：\n\n- ここ（这里）：最基本的指示词之一\n- かわいい（可爱的）：日本文化中最著名的形容词之一（后续学习ら行后会更深入了解）\n- きょう（今天）：日常寒暄必备词\n\n此外，「か」还常用于句尾表示疑问，相当于中文的「吗」。例如：「これは？」（这是？）这种用法在初级阶段就会频繁遇到。",
+    "quote": "「あかきあき、こえきく」— 红秋听声（在红叶满山的秋天聆听自然之声）"
+  },
+  "exercises": [
+    {
+      "type": "match",
+      "section": "か行假名 ↔ 罗马音配对",
+      "left": ["か", "き", "く", "け", "こ"],
+      "right": ["ko", "ke", "ka", "ku", "ki"],
+      "pairs": [2, 4, 3, 1, 0],
+      "explanation": "か行 = k + あ行元音：か(ka)、き(ki)、く(ku)、け(ke)、こ(ko)。将每个假名与正确的罗马音配对即可。"
+    },
+    {
+      "type": "choice",
+      "section": "假名认读",
+      "prompt": "哪个假名读作 ka？",
+      "options": ["か", "き", "く", "け"],
+      "optionsCn": ["ka", "ki", "ku", "ke"],
+      "sentenceCn": "哪个假名读作 ka？",
+      "answer": 0,
+      "explanation": "か 读作 ka。か行辅音 k + あ行元音 a = ka。"
+    },
+    {
+      "type": "choice",
+      "section": "假名认读",
+      "prompt": "哪个假名读作 ki？",
+      "options": ["か", "こ", "き", "く"],
+      "optionsCn": ["ka", "ko", "ki", "ku"],
+      "sentenceCn": "哪个假名读作 ki？",
+      "answer": 2,
+      "explanation": "き 读作 ki。き行辅音 k + あ行元音 i = ki。"
+    },
+    {
+      "type": "choice",
+      "section": "读音与单词",
+      "prompt": "读音为 kao 的词是？",
+      "options": ["かお", "ここ", "あき", "かく"],
+      "optionsCn": ["脸（kao）", "这里（koko）", "秋天（aki）", "写（kaku）"],
+      "sentenceCn": "读音为 kao 的词是？",
+      "answer": 0,
+      "explanation": "かお = か(ka) + お(o) = kao，意思是「脸」。"
+    },
+    {
+      "type": "choice",
+      "section": "读音与单词",
+      "prompt": "读音为 koko 的词是？",
+      "options": ["ここ", "かお", "あき", "かく"],
+      "optionsCn": ["这里（koko）", "脸（kao）", "秋天（aki）", "写（kaku）"],
+      "sentenceCn": "读音为 koko 的词是？",
+      "answer": 0,
+      "explanation": "ここ = こ(ko) + こ(ko) = koko，意思是「这里」。"
+    },
+    {
+      "type": "choice",
+      "section": "假名书写",
+      "prompt": "「秋天」的日语假名写作？",
+      "options": ["あき", "かお", "ここ", "かく"],
+      "optionsCn": ["秋天", "脸", "这里", "写"],
+      "sentenceCn": "「秋天」的日语假名写作？",
+      "answer": 0,
+      "explanation": "秋天 = あき (aki)，由あ行「あ」和か行「き」组成。"
+    },
+    {
+      "type": "fill",
+      "section": "罗马音拼写",
+      "prompt": "「かお」の romanization は ___ です",
+      "blanks": [
+        {
+          "word": "kao",
+          "accepted": ["kao"],
+          "hint": "か = ka, お = o"
+        }
+      ],
+      "explanation": "かお = ka + o = kao。注意：お 是あ行元音 o，不是 か行。"
+    },
+    {
+      "type": "fill",
+      "section": "罗马音拼写",
+      "prompt": "「ここ」の romanization は ___ です",
+      "blanks": [
+        {
+          "word": "koko",
+          "accepted": ["koko"],
+          "hint": "こ = ko"
+        }
+      ],
+      "explanation": "ここ = ko + ko = koko。两个 こ 都是か行假名。"
+    },
+    {
+      "type": "fill",
+      "section": "罗马音拼写（あ行复习）",
+      "prompt": "「あき」の romanization は ___ です",
+      "blanks": [
+        {
+          "word": "aki",
+          "accepted": ["aki"],
+          "hint": "あ = a（あ行）, き = ki（か行）"
+        }
+      ],
+      "explanation": "あき = a + ki = aki。这是あ行与か行的组合，昨天学过 あ = a 哦！"
+    },
+    {
+      "type": "fill",
+      "section": "罗马音拼写",
+      "prompt": "「かく」の romanization は ___ です",
+      "blanks": [
+        {
+          "word": "kaku",
+          "accepted": ["kaku"],
+          "hint": "か = ka, く = ku"
+        }
+      ],
+      "explanation": "かく = ka + ku = kaku。两个都是か行假名。"
+    },
+    {
+      "type": "translate",
+      "section": "中译日",
+      "direction": "zh2ja",
+      "source": "这里",
+      "reference": "ここ",
+      "keyPoints": ["ここ = here（这里）"],
+      "explanation": "这里 = ここ。こ(ko) + こ(ko)，两个か行假名组成。"
+    },
+    {
+      "type": "translate",
+      "section": "中译日",
+      "direction": "zh2ja",
+      "source": "红",
+      "reference": "あか",
+      "keyPoints": ["あか = red（红色）"],
+      "explanation": "红 = あか。あ(a) + か(ka)，あ行 + か行组合。"
+    },
+    {
+      "type": "translate",
+      "section": "中译日",
+      "direction": "zh2ja",
+      "source": "秋天",
+      "reference": "あき",
+      "keyPoints": ["あき = autumn（秋天）"],
+      "explanation": "秋天 = あき。あ(a) + き(ki)，あ行 + か行组合。"
+    },
+    {
+      "type": "truefalse",
+      "section": "发音判断",
+      "statement": "く 的发音与中文「枯」完全相同。",
+      "answer": false,
+      "explanation": "く 的发音短促，气流从舌根与软腭间挤出，类似英语 key 但更轻，不是中文「枯」。"
+    },
+    {
+      "type": "truefalse",
+      "section": "词义判断",
+      "statement": "ここ 的意思是「那里」。",
+      "answer": false,
+      "explanation": "ここ 的意思是「这里」（here），「那里」是 そこ。"
+    },
+    {
+      "type": "truefalse",
+      "section": "假名构成判断",
+      "statement": "かお 由か行假名「か」和あ行假名「お」组成。",
+      "answer": true,
+      "explanation": "正确。かお = か(ka, か行) + お(o, あ行)，是か行与あ行的组合。"
+    }
+  ]
+}
